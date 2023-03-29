@@ -87,7 +87,7 @@ Students by the end of the course will be able to&hellip;
 
 ## Class Recordings
 
-All class recordings for Jay's class will be available [here](https://drive.google.com/drive/folders/1bm86K24dYJPeS1LyOrGMySwojubl9BNx?usp=sharing) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the Make School student body.
+All class recordings for Dani's class will be available [here](https://bit.ly/droxey-vids) no later than 24 hours after the class session. For privacy reasons, please do not share the recordings outside of the ACS student body.
 
 ## Class Assignments
 
