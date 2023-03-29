@@ -71,7 +71,7 @@ Students by the end of the course will be able to&hellip;
 | 12 |  Mon, May 10 / Tue, May 11 | [Authentication with Passport](Lessons/10-Passport/) / [Deployment](Lessons/12-Deployment/README.md) |  | |
 | 13 |  Wed, May 12 / Thu, May 13 | Final Class | [API Project] Phase 3 | [Final Assessment](Assessments/final-assessment.md) |
 
-[GIF Search Tutorial]: https://www.makeschool.com/academy/track/gif-search-app-ynu
+[GIF Search Tutorial]: https://github.com/Tech-at-DU/Node-Gif-Search
 [Codecademy JS]: https://www.codecademy.com/learn/introduction-to-javascript
 [Promise Challenges]: https://github.com/Make-School-Labs/promises-challenges
 [Reddit.js]: https://www.makeschool.com/academy/track/reddit-clone-in-node-js
