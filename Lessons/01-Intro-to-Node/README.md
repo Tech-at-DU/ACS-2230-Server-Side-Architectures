@@ -90,7 +90,7 @@ The **navigator** is responsible for...
 
 Choose pairs randomly. You will work with your pair for the rest of class.
 
-Open the [GIF Search tutorial](https://www.makeschool.com/academy/track/gif-search-app-ynu) and finish parts 1-4 (part 5 optional). As you work, discuss each step with your pair and make sure both partners understand before moving on.
+Open the [GIF Search tutorial](https://github.com/Tech-at-DU/Node-Gif-Search) and finish parts 1-4 (part 5 optional). As you work, discuss each step with your pair and make sure both partners understand before moving on.
 
 You will submit the tutorial in Class 2. You may finish on your own (just make sure to `git push` before the end of class).
 
