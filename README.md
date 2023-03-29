@@ -45,37 +45,15 @@ Students by the end of the course will be able to&hellip;
 
 ## Class Schedule
 
-**Course Dates:** Monday, May 31 – Friday, July 16, 2021 (7 weeks)
+**M/W**
+**Course Dates:** Monday, March 29 – Wednesday, May 12, 2021 (7 weeks)
+**Class Times:** Monday, Wednesday at 2:30–5:15pm (13 class sessions)
 
-**Class Times:** Monday, Wednesday, Friday at 9:30am–11:15am (19 class sessions)
+**T/Th**
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
+**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | Getting Started with Node & ES6 |
-|  2 |  Fri, June 4         | Giphy Search Lab |
-|  3 |  Mon, June 7         | Node School JavaScripting |
-|  4 |  Wed, June 9         | Eloquent JavaScript Reading |
-|  5 |  Fri, June 11        | Working with Promises |
-|  6 |  Mon, June 14        | Airbnb JS Styleguide |
-|  7 |  Wed, June 16        | How JavaScript Got BIG |
-|  8 |  Fri, June 18        | Complex Associations |
-|  9 |  Mon, June 21        | Auth with JWT |
-| 10 |  Wed, June 23        | Flex/Lab Day |
-| 11 |  Fri, June 25        | Passport Auth |
-| 12 |  Mon, June 28        | Testing w/ Mocha & Chai |
-| 13 |  Wed, June 30        | Testing Express Routes |
-| 14 |  Fri, July 2         | Intro to Web Security for Node.js |
-| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 15 |  Wed, July 7         | Node.js Capstone Kickoff Day |
-| 16 |  Fri, July 9         | Error Handling |
-| 17 |  Mon, July 12        | Topical Blog Post Writing Day |
-| 18 |  Wed, July 14        | Lab/Flex Day |
-| 19 |  Fri, July 16        | Project Fair |
 
-For more see: [make.sc/bew-1-3](https://make.sc/bew-1-3)
-
-<!-- 
 | Class |     Date      | Topics | Assignment Due | Assessment |
 | :---: | :-----------: | :--------: | :--------: | :--------: |
 |  1 |  Mon, Mar 29 / Tue, Mar 30 | [Intro to Node](Lessons/01-Intro-to-Node/) | - | |
@@ -105,7 +83,7 @@ For more see: [make.sc/bew-1-3](https://make.sc/bew-1-3)
 [API Project Proposal/Documentation]: https://make-school-courses.github.io/BEW-1.3-Server-Side-Architectures-and-Frameworks/#/Lessons/08-Documentation/?id=wrap-up
 [API Project]: Projects/02-Custom-API-Project.md
 [Midterm Assessment]: Assessments/quiz-1.md
-[Final Assessment]: Assessments/quiz-2.md -->
+[Final Assessment]: Assessments/quiz-2.md
 
 ## Class Recordings
 
@@ -172,15 +150,3 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 
 - **Selecting a Stack**: How do I choose the right stack? When should I use Node?
 - **Configuration vs. Convention**: Determining your personal preferences regarding frameworks.
-
-## Make School Course Policies
-
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagiarism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
