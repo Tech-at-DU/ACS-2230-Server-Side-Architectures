@@ -80,9 +80,9 @@ Event.findOneAndDelete({ eventName: 'Make School Demo Night' })
 
 Clone the [starter code](https://github.com/tech-at-du/messages-api-starter) to get started with this activity. Follow the instructions in the repo. Feel free to use the dataset you defined in class today instead of `Message` or `User`.
 
-## Activity: Tutorial Time (50 Minutes)
+## Homework
 
-Use this time to get caught up on the Reddit.js tutorial (or keep going, if you have already finished Part 3). Your instructor will come around to assist!
+Use any remaining time to get caught up on the Reddit.js tutorial (or keep going, if you have already finished Part 3). Your instructor will come around to assist!
 
 <!-- In the last 20 minutes, go over the tutorial Parts 1-3 as a class and discuss. -->
 
