@@ -76,7 +76,7 @@ Event.findOneAndDelete({ eventName: 'Make School Demo Night' })
 
 ## Create a Messages API (30 Minutes)
 
-Clone the [starter code](https://github.com/meredithcat/messages-api-starter) to get started with this activity. Open the directory in your terminal and run `npm install`. The starter code already includes code to set up the Mongoose connection; all we need to do is add the models and modify the routes.
+Clone the [starter code](https://github.com/tech-at-du/messages-api-starter) to get started with this activity. Open the directory in your terminal and run `npm install`. The starter code already includes code to set up the Mongoose connection; all we need to do is add the models and modify the routes.
 
 To start off, visit your endpoints in Postman to see how you can interact with them. There are CRUD endpoints for the `User` resource and the `Message` resource - however, those resources haven't actually been written yet!
 
