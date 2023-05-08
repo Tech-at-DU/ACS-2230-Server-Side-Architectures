@@ -39,37 +39,28 @@ Students by the end of the course will be able to&hellip;
 1. Implement authentication using JWT tokens and sessions.
 1. Invent, create, test, deploy, and deliver a custom, fully secured API.
 
-## Study Guide
-
 <!-- To best prepare for the final exam, review [this study guide](study-guide.md). -->
 
 ## Class Schedule
 
-**M/W**
-**Course Dates:** Monday, March 29 – Wednesday, May 12, 2021 (7 weeks)
-**Class Times:** Monday, Wednesday at 2:30–5:15pm (13 class sessions)
-
-**T/Th**
-**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (13 class sessions)
+**Course Dates:** Monday, March 29 – Wednesday, May 10, 2023 (7 weeks)<br>
+**Class Times:** Monday, Wednesday at 1:00–3:45pm 
 
 
-| Class |     Date      | Topics | Assignment Due | Assessment |
-| :---: | :-----------: | :--------: | :--------: | :--------: |
-|  1 |  Mon, Mar 29 / Tue, Mar 30 | [Intro to Node](Lessons/01-Intro-to-Node/) | - | |
-|  - |  Wed, Mar 31 / Thu, Apr 1  | **No Class - Cesar Chavez** |
-|  2 |  Mon, Apr 5  / Tue, Apr 6  | [JS Intro & Asynchronous Programming](Lessons/02-Intro-to-JS/) | [GIF Search Tutorial] | |
-|  3 |  Wed, Apr 7  / Thu, Apr 8  | [HTTP Methods & Endpoint Design](Lessons/03-Http-Methods/) | [Codecademy JS]: Promises & Async/Await<br>[Promise Challenges] | |
-|  4 |  Mon, Apr 12 / Tue, Apr 13 | [Databases](Lessons/04-Databases/) | [Reddit.js] Part 1-3 | |
-|  5 |  Wed, Apr 14 / Thu, Apr 15 | [Testing with Mocha & Chai](Lessons/05-Testing-Mocha-Chai/) | [Reddit.js] Part 4-6 | |
-|  6 |  Mon, Apr 19 / Tue, Apr 20 | [Documentation with Docsify](Lessons/08-Documentation/) | [TDD/BDD Challenges] |  [Midterm Assessment](Assessments/midterm-assessment.md)|
-|  7 |  Wed, Apr 21 / Thu, Apr 22 | [Testing Express Routes](Lessons/06-Testing-Express-Routes/) | [API Project Proposal/Documentation] | |
-|  8 |  Mon, Apr 26 / Tue, Apr 27 | [Review/Lab Day](Lessons/09-Review/) | [Chai Testing Challenges] |  |
-|  9 |  Wed, Apr 28 / Thu, Apr 29 | [Authentication with JWT](Lessons/07-Authentication/) | [Reddit.js] Part 7-9 | |
-| 10 |  Mon, May 3  / Tue, May 4  | [More Authentication](Lessons/11-More-Authentication/) | [API Project] Phase 2 | |
-| 11 |  Wed, May 5  / Thu, May 6  | Lab Day | [Reddit.js] Part 10-11<br>[Auth API Tutorial](https://scotch.io/tutorials/authenticate-a-node-es6-api-with-json-web-tokens) | |
-| 12 |  Mon, May 10 / Tue, May 11 | [Authentication with Passport](Lessons/10-Passport/) / [Deployment](Lessons/12-Deployment/README.md) |  | |
-| 13 |  Wed, May 12 / Thu, May 13 | Final Class | [API Project] Phase 3 | [Final Assessment](Assessments/final-assessment.md) |
+
+| Class | Topics | Assignment Due | 
+| :---: | :--------: | :--------: |
+|  1 |  [Intro to Node](Lessons/01-Intro-to-Node/) | - | 
+|  2 | [JS Intro & Asynchronous Programming](Lessons/02-Intro-to-JS/) | [GIF Search Tutorial] | 
+|  3 |  [HTTP Methods & Endpoint Design](Lessons/03-Http-Methods/) | [Codecademy JS]: Promises & Async/Await<br>[Promise Challenges] |
+|  4 |   [Databases](Lessons/04-Databases/) | [Reddit.js] Part 1-3 | 
+|  5 |  [Testing with Mocha & Chai](Lessons/05-Testing-Mocha-Chai/) | [Reddit.js] Part 4-6 | 
+|  6 |  [Documentation with Docsify](Lessons/08-Documentation/) | [TDD/BDD Challenges] | 
+|  7 |   [Testing Express Routes](Lessons/06-Testing-Express-Routes/) | [API Project Proposal/Documentation] | 
+|  8 | [Review/Lab Day](Lessons/09-Review/) | [Chai Testing Challenges] |  
+|  9 |   [Authentication with JWT](Lessons/07-Authentication/) | [Reddit.js] Part 7-9 | 
+| 10 |    API Project Office Hours + Lab Day | 
+| 11 |   Final Class: Recap & Review | [API Project]  |  
 
 [GIF Search Tutorial]: https://github.com/Tech-at-DU/Node-Gif-Search
 [Codecademy JS]: https://www.codecademy.com/learn/introduction-to-javascript
