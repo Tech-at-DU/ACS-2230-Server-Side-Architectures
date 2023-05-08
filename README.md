@@ -10,7 +10,6 @@
 1. [Course Description](#course-description)
 1. [Prerequisites](#prerequisites)
 1. [Learning Outcomes](#learning-outcomes)
-1. [Study Guide](#study-guide)
 1. [Class Schedule](#class-schedule)
 1. [Class Recordings](#class-recordings)
 1. [Class Assignments](#class-assignments)
