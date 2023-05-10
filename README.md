@@ -48,7 +48,7 @@ Students by the end of the course will be able to&hellip;
 
 
 | Class | Topics | Assignment Due | 
-| :---: | :--------: | :--------: |
+| :---: | -------- | -------- |
 |  1 |  [Intro to Node](Lessons/01-Intro-to-Node/) | - | 
 |  2 | [JS Intro & Asynchronous Programming](Lessons/02-Intro-to-JS/) | [GIF Search Tutorial] | 
 |  3 |  [HTTP Methods & Endpoint Design](Lessons/03-Http-Methods/) | [Codecademy JS]: Promises & Async/Await<br>[Promise Challenges] |
@@ -59,7 +59,7 @@ Students by the end of the course will be able to&hellip;
 |  8 | [Review/Lab Day](Lessons/09-Review/) | [Chai Testing Challenges] |  
 |  9 |   [Authentication with JWT](Lessons/07-Authentication/) | [Reddit.js] Part 7-9 | 
 | 10 |    API Project Office Hours + Lab Day | 
-| 11 | ACS 3210 Sneak Preview: [Node: Beyond Express](Lessons/BeyondExpress.md)<br>Show & Tell: API Project | [API Project] due Sunday @ 11:59pm PST |  
+| 11 | **ACS 3210 Sneak Preview**<br>[Node: Beyond Express](Lessons/BeyondExpress.md)<br><br>**Show & Tell**: API Project | [API Project] due Sunday @ 11:59pm PST |  
 
 [GIF Search Tutorial]: https://github.com/Tech-at-DU/Node-Gif-Search
 [Codecademy JS]: https://www.codecademy.com/learn/introduction-to-javascript
