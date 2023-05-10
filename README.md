@@ -59,7 +59,7 @@ Students by the end of the course will be able to&hellip;
 |  8 | [Review/Lab Day](Lessons/09-Review/) | [Chai Testing Challenges] |  
 |  9 |   [Authentication with JWT](Lessons/07-Authentication/) | [Reddit.js] Part 7-9 | 
 | 10 |    API Project Office Hours + Lab Day | 
-| 11 |   Final Class: Recap & Review | [API Project]  |  
+| 11 | ACS 3210 Sneak Preview: [Node: Beyond Express](Lessons/BeyondExpress.md)<br>Show & Tell: API Project | [API Project] due Sunday @ 11:59pm PST |  
 
 [GIF Search Tutorial]: https://github.com/Tech-at-DU/Node-Gif-Search
 [Codecademy JS]: https://www.codecademy.com/learn/introduction-to-javascript
