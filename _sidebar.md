@@ -11,13 +11,9 @@
 - [Documentation with Docsify](Lessons/08-Documentation/)
 - [Putting it Together](Lessons/09-Putting-it-Together/)
 - [Advanced Testing](Lessons/10-Advanced-Testing/)
-- [More Authentication](Lessons/11-More-Authentication/)
+- [Node: Beyond Express](Lessons/BeyondExpress.md)
 
 - **Projects**
 - [GIF Search](https://www.makeschool.com/academy/track/gif-search-app-ynu)
 - [Reddit.js](https://www.makeschool.com/academy/track/reddit-clone-in-node-js)
 - [Custom API Project](Projects/02-Custom-API-Project.md)
-
-- **Assessments**
-- [Midterm Assessment](Assessments/midterm-assessment.md)
-- [Final Assessment](Assessments/final-assessment.md)
