@@ -18,7 +18,6 @@
 1. [Additional Resources](#additional-resources)
    1. [Information Resources](#information-resources)
    1. [Interview Topics](#interview-topics)
-1. [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
 
@@ -82,8 +81,6 @@ All class recordings for Dani's class will be available [here](https://bit.ly/dr
 ## Class Assignments
 
 We will be using Gradescope this term, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope. As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
-
-Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
 1. [Make Parties (Tutorial)](https://www.makeschool.com/academy/track/make-tweets)
 1. [Reddit.js (Tutorial)](https://www.makeschool.com/academy/track/reddit-clone-in-node-js)
