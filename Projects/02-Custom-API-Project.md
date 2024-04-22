@@ -72,7 +72,3 @@ It's time to get creative and write the authenticated API of your dreams!
 ## Getting Started
 
 Fork the provided [**auth-api-starterpack**](https://github.com/droxey/auth-api-starterpack) repository and examine the contents to reveal the next steps! We will update the dependencies together in class.
-
-## Additional Resources
-
-* [Grading Rubric](Rubrics/02-Custom-API-Project.md)
